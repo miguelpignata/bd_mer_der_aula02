@@ -30,7 +30,7 @@
 
 
 ## Dados de teste em CSV
-- [animal.csv](./animal.csv)
-- [consulta.csv](./consulta.csv)
-- [dono.csv](./dono.csv)
-- [veterinario.csv](./veterinario.csv)
+- [animal.csv](./animal.CSV)
+- [consulta.csv](./consulta.CSV)
+- [dono.csv](./dono.CSV)
+- [veterinario.csv](./veterinario.CSV)
