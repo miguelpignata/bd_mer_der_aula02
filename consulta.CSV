@@ -1,0 +1,5 @@
+ID_Consulta,Data,Hor�rio,Motivo,ID_Animal,ID_Veterin�rio
+1,10/08/2026,09:00,Consulta de Rotina,1,1
+2,13/08/2026,14:00,Problema de Pele,2,2
+3,15/08/2026,10:30,Vacina��o,3,1
+4,17/08/2026,16:00,Avalia��o Card�aca,4,3
